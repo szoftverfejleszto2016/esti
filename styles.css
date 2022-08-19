@@ -1,0 +1,17 @@
+body {
+    font-size: 100%;
+}
+
+header {
+    background-image: url('img/cb.svg');
+}
+
+footer {
+    background-color: #353535;
+    color: white;
+    padding: 20px;
+}
+
+.pane {
+    background-color: #b1e6b6;
+}
